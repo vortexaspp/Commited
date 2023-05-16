@@ -20,5 +20,5 @@ if autoPush == "y":
 #    \ \/ / | | '__/ _ \ | | |  | |/ _` / __|/ _` | '_ \| |
 #     \  /  | | | |  __/ | | |__| | (_| \__ \ (_| | | | | |
 #      \/   |_|_|  \___| | |_____/ \__,_|___/\__,_|_| |_|_|
-#                     _/ |                                 
+#                     _/ |      not me doing this to veify railway                           
 #                    |__/     this is not a commitment to society                             
